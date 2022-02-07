@@ -31,5 +31,5 @@ jobs:
           commit_options: '--no-verify'
           repository: .
           commit_user_name: AvengerUserBot
-          commit_user_email: 58665444+sandy1709@users.noreply.github.com
-          commit_author: sandy1709 <58665444+sandy1709@users.noreply.github.com>
+          commit_user_email: 58665444+AvengerUserBot@users.noreply.github.com
+          commit_author: AvengerUserBot <58665444+AvengerUserBot@users.noreply.github.com>
